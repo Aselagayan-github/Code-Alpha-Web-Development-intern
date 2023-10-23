@@ -13,7 +13,9 @@ Landing Page <br>
 	<img src = "Task 1/photo/Capture1.PNG" width="400">
   <img src = "Task 1/photo/Capture2.PNG" width="400">
 </p>
-
-
+<br>
+<video controls autoplay>
+  <source src="Task 1/23.10.2023_20.50.27_REC.mp4" type="video/mp4">
+</video>
 ## **Thank you** 💖
 If you like this project just click ⭐ and share it with others.

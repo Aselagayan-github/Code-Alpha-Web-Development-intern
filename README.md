@@ -1,5 +1,5 @@
 # Code-Alpha-Web-Development-intern
-Web Developing intern
-TASK 1
-*Landing Page 
+Web Developing intern<br>
+TASK 1<br>
+*Landing Page <br>
 

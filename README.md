@@ -9,9 +9,9 @@ Landing Page <br>
 
 ## **Game Screenshots** 📷
 <p float="left">
-	<img src = "Task 1/photo/Capture.PNG" width="350">
-	<img src = "Task 1/photo/Capture1.PNG" width="200">
-  <img src = "Task 1/photo/Capture2.PNG" width="200">
+	<img src = "Task 1/photo/Capture.PNG" width="450">
+	<img src = "Task 1/photo/Capture1.PNG" width="400">
+  <img src = "Task 1/photo/Capture2.PNG" width="400">
 </p>
 
 
